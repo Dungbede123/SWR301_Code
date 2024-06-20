@@ -523,6 +523,7 @@
             <div class="button-container">
     <button class="add-to-cart">Buy</button>
     <button class="add-to-cart">Add To Cart</button>
+    <div></div>
 </div>
         </div>
         
